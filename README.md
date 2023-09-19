@@ -6,6 +6,9 @@ O que precisamos ter para conseguir fazer a atividade?
 2) SSM
 3) SQL Server
 
+   ![Exemplo de imagem](img/gifs-momentos-de-felicidade.gif)
+
+
    E como conseguimos? Precisamos instalar!!!!!!
 ------------------------------------------------------------------
 Instalação do Visual Studio:
