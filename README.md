@@ -3,7 +3,7 @@
 
  ![Exemplo de imagem](img/gifs-momentos-de-felicidade.gif)
  
-> [!IMPORTANT]
+> [! O que precisamos ter para conseguir fazer a atividade?]
 > O que precisamos ter para conseguir fazer a atividade?
 > 1) Visual Studio
 > 2) SSM
