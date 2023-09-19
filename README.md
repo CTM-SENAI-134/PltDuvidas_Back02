@@ -23,7 +23,7 @@ Instalação do SQL Server:
 Ambiente ok? Perfeito!
 
 Então primeiro precisaremos acessar o SSM. E dentro dele, abrir uma nova consulta para adicionar esses scripts:
-<code> 
+```
 CREATE DATABASE Chapter
 GO
 
@@ -62,4 +62,4 @@ GO
 
 SELECT * FROM Usuarios WHERE email = 'email@sp.br' AND senha = '1234'
 GO
-</code>
+```
