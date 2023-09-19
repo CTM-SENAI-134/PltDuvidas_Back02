@@ -8,9 +8,9 @@
 > 1) Visual Studio
 > 2) SSM
 > 3) SQL Server
+ ---
 
 E como conseguimos? Precisamos instalar!!!!!!
-
 - [ ] Instalação do Visual Studio:
 > https://visualstudio.microsoft.com/pt-br/downloads
 
@@ -19,6 +19,7 @@ E como conseguimos? Precisamos instalar!!!!!!
 
 - [ ] Instalação do SQL Server:
 > https://www.microsoft.com/pt-br/sql-server/sql-server-downloads
+ ---
 
 
 Ambiente ok? Perfeito!
