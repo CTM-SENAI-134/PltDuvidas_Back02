@@ -19,6 +19,7 @@ E como conseguimos? Precisamos instalar!!!!!!
 
 - [ ] Instalação do SQL Server:
 > https://www.microsoft.com/pt-br/sql-server/sql-server-downloads
+
  ---
 
 
