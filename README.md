@@ -1,15 +1,15 @@
 <h1>PInd_Back02</h1>
 <p>Este repositório é referente ao segundo dia do plantão individual sobre BackEnd. Serão abordadas as UCs 13, 14, 15</p>
 
-O que precisamos ter para conseguir fazer a atividade?
-1) Visual Studio
-2) SSM
-3) SQL Server
+ ![Exemplo de imagem](img/gifs-momentos-de-felicidade.gif)
+ 
+> [!IMPORTANT]
+> O que precisamos ter para conseguir fazer a atividade?
+> 1) Visual Studio
+> 2) SSM
+> 3) SQL Server
 
-   ![Exemplo de imagem](img/gifs-momentos-de-felicidade.gif)
-
-
-   E como conseguimos? Precisamos instalar!!!!!!
+E como conseguimos? Precisamos instalar!!!!!!
 
 - [ ] Instalação do Visual Studio:
 > https://visualstudio.microsoft.com/pt-br/downloads
