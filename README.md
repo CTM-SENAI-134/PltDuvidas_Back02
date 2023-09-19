@@ -75,5 +75,5 @@ Vamos adicionar pacote do nuget do sql server. Para isso, voccê irá clicar no 
 Clicar com o botão direito em cima do nome do projeto, e e seguida selecione o "Gerenciar Pacotes do NuGet"
 
 Em seguida, procure por: 
-<img src="https://i.stack.imgur.com/XEYvs.png>
+<img src="https://i.stack.imgur.com/XEYvs.png">
 
