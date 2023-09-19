@@ -57,7 +57,7 @@ Em seguida, no projeto dentro do Visual Studio Code, é preciso criar as seguint
 - criar a pasta Repositories
 - criar a pasta Contexts
 
-##Model
+## Model
 Dentro de Models, você irá criar uma classe chamada "Livro.cs" e em seguida, irá adicionar dentro da classes os atributos.
 
 ```
@@ -83,7 +83,7 @@ Clicar com o botão direito em cima do nome do projeto, e e seguida selecione o 
 Em seguida, procure por e clique em "Instalar": 
 <img src="https://i.stack.imgur.com/XEYvs.png">
 
-##Context
+## Context
 Agora, na  pasta "Contexts" criaremos uma classe chamada ChapterContext.cs
 ```
 using ChapterFST1.Models;
@@ -145,7 +145,7 @@ namespace ChapterFST1.Repositories
 }
 
 ```
-##Controller
+## Controller
 
 Dentro da pasta  "Controller", crie um CONTROLADOR chamado "LivoController.cs"
 
@@ -192,7 +192,7 @@ namespace ChapterFST1.Controllers
 
 ```
 
-##Program
+## Program
 
 Dentro do arquivo program.cs
 
