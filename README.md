@@ -10,16 +10,16 @@ O que precisamos ter para conseguir fazer a atividade?
 
 
    E como conseguimos? Precisamos instalar!!!!!!
-------------------------------------------------------------------
-Instalação do Visual Studio:
-https://visualstudio.microsoft.com/pt-br/downloads
------------------------------------------------------------------
-Instalação do SSM:
-https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16
------------------------------------------------------------------
-Instalação do SQL Server:
-https://www.microsoft.com/pt-br/sql-server/sql-server-downloads
------------------------------------------------------------------
+
+- [ ] Instalação do Visual Studio:
+> https://visualstudio.microsoft.com/pt-br/downloads
+
+- [ ] Instalação do SSM:
+> https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16
+
+- [ ] Instalação do SQL Server:
+> https://www.microsoft.com/pt-br/sql-server/sql-server-downloads
+
 
 Ambiente ok? Perfeito!
 
