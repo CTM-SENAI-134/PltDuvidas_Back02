@@ -21,95 +21,123 @@ c) Rolando um pouco a tela para baixo, você vai clicar em “Baixe agora” na 
 b) Abra o arquivo e permita que ele altere seu dispositivo.
 
 c) Abrirá essa interface, e selecione o **Personalizado**, para conseguirmos selecionar o que desejamos dentro do SQL:
+<br>
 ![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/96be1835-4072-4fc1-a590-494177d605b8)
 
 d) Clique em Instalar.
+<br>
 ![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/378ea71b-fd99-4077-b081-61861648a851)
 
 e) Aguarde a instalação
+<br>
 ![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/d05ee115-4590-4ca2-b3b2-c2fc0d469045)
 
 f) No menu lateral, selecione Instalação
+<br>
 ![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/a85170ba-5338-42ae-8e9c-5d67f210c240)
 
 g) Dentro de Instalação, selecione o link de Nova instalação autônoma do SQL Server ou adicionar recursos a uma instalação existente.
+<br>
 ![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/798fbb46-e0f5-4e92-baed-9258b4f1d87c)
 
 h) Aguarde.
+<br>
 ![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/a57b69b8-dad9-4b3c-ae18-7b9d7f4f8020)
 
 i) Em seguida, em “Especifique uma edição gratuita” deixe a opção **Developer** e clique em **Avançar**.
+<br>
 ![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/eb17e1fb-3ddf-497e-8fe1-55356d55e68e)
 
 j) Nessa parte de Termos de Licença, aceite os termos e condições e clique em Avançar
+<br>
 ![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/984d9607-ab74-40c4-a6c0-c7c63faec789)
 
 k) Clique em Avançar
+<br>
 ![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/090014e9-387e-4ab1-9aaf-1216e812bfe7)
 
 l) Clique em Avançar
+<br>
 ![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/6f8074f2-e893-43f5-8113-b6549ae63f30)
 
 m) Não selecione a opção Extensão do Azure para SQL Se. E clique em Avançar.
+<br>
 ![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/baa2b842-f443-44f6-a33f-a0c46e85e280)
 
 n) Selecione as opções das imagens e clique em Avançar.
+<br>
 ![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/115a9449-737a-4ef9-a7cd-38d6f3a08f81)
 
 o) Clique em Instância nomeada e coloque “SQLExpress” e em ID da instância, “SQLEXPRESS”. Por fim, clique em Avançar.
+<br>
 ![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/605108c6-0036-42f1-974a-c2f71a0f4423)
 
 p) Selecione o check de “Conceder o privilégio Realizar a Tarefa de Manutenção de Volume…”. E clique em Avançar.
+<br>
 ![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/9a90a18f-9f08-4f0f-900c-f5abe7db5d30)
 
 q) Selecione o Modo Misto e coloque em Digitar Senha a senha “1234” e em Confirmar Senha, a mesma senha “1234”.
+<br>
 ![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/daf96156-a75e-4bd7-b784-ca31482a526a)
 
 r) Em seguida, clique em Adicionar Usuário Atual e ao finalizar, clique em Avançar. 
+<br>
 ![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/6ef83c57-4de4-4a3e-ba02-3399cf6872cb)
 
 s) Clique em Instalar.
+<br>
 ![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/88229cdf-bd86-4200-a049-64291a685f6f)
 
 t) Assim que tudo estiver com Status Exito, clique em Fechar.
+<br>
 ![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/3ad192e3-5ea3-4e26-926e-72a76b2184b9)
 
  <h2>Instalação do SSMS</h2>
  a) Procure no navegador por: *SSMS Download*
 
 b) Clique no seguinte link:
-
+<br>
 [SQL Server Management Studio (SSMS) - SQL Server Management Studio (SSMS)](https://learn.microsoft.com/pt-br/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver16)
 
 c) Rolando um pouco a tela para baixo, você vai clicar em ***Baixar o SQL Server Management Studio (SSMS)***
+<br>
 ![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/686ec8a6-7423-4ef6-8e62-9f34f258efdd)
 
 d) Ele irá te direcionar a outra tela, então clique em Download gratuito do SSMS(SQL Server Managment Studio)
+<br>
 ![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/2884d036-69c9-464e-89ba-56b6bbbfa75b)
 
 e) Assim que baixar, clique no arquivo e permita que faça alterações em seu dispositivo. Assim que aceitar, aparecerá uma aba de bem-vindo. Clique em Instalar. 
+<br>
 ![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/96e227c9-1ab0-438f-aee7-a3fd96907008)
 
 f) Aguarde a instalação.
+<br>
 ![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/b228053b-9e3a-4972-9450-6477b7ad1a75)
 
 g) Por fim, clique em fechar
+<br>
 ![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/669120e5-236a-41b5-9cbf-1f4ce24a9e83)
 
 O ambiente está OK, então vamos ver como é a interface do SSMS. 
 Clique na barra de pesquisa do Windowns e pesquise por SSMS, selecione o SQL Server Management Studio Management Studo 19.
+<br>
 ![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/f0fc35fe-616f-4dbe-93df-bcf8e8a16fd8)
 
 Toda vez que abrir o SSMS aparecerá de primeiro momento o ambiente de conexão com o servidor. Aqui você pode deixar da seguinte forma e em seguida, clicar em “Conectar”.
+<br>
 ![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/7e0621f2-ae72-42ef-a900-5969ef40f4d1)
 
 Quando abrir, terá uma a chamada Pesquisador de Objetos e dentro dele, estará os bancos de dados, informações de segurança e gerenciamento etc. O que será muito importante para nós é pasta Banco de dados, pois será nele que veremos nossos bancos com suas tabelas.
+<br>
 ![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/9c5975f2-a527-47af-bcf9-fccfe64f6025)
 
 Para iniciar o uso, Clique em Nova Consulta na aba de ferramentas.
+<br>
 ![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/0b202463-641c-4f8f-9fc8-d7e66dbac6e8)
 
 Ao clicar em Nova Consulta, Irá abrir uma consulta, na qual conseguiremos escrever nossos comandos.
+<br>
 ![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/d4a712ec-5c64-432f-87ce-385220bc2f62)
 
 Primeiro precisamos entender que faremos hoje. Vamos criar um banco de dados de uma biblioteca. E o que temos em bibliotecas? LIVROS! 
