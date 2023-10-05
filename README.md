@@ -1,14 +1,27 @@
-<h1>PInd_Back02</h1>
-<p>Este repositório é referente ao segundo dia do plantão individual sobre BackEnd. Serão abordadas as UCs 13, 14, 15</p>
+<h1>Olá, Dev!</h1>
+<p>Este repositório é referente ao segundo dia do plantão individual sobre BackEnd. Serão abordadas as UCs 13(Banco de daodos), 14(Desenvolvimento de API), 15(Teste de BackEnd)</p>
 
- ![Exemplo de imagem](img/gifs-momentos-de-felicidade.gif)
+<h1>BANCO DE DADOS</h1> 
  ---
 > [!IMPORTANT]
 > O que precisamos ter para conseguir fazer a atividade?
-> 1) Visual Studio
-> 2) SSM
-> 3) SQL Server
+> 1) SQL Server
+> 2)  SSMS
  ---
+
+ <h2>Instalação do SQL Server</h2>
+a) Procure no navegador por: *SQL Server Download*
+
+b) Clique no seguinte link:
+
+[Downloads do SQL Server | Microsoft](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
+
+c) Rolando um pouco a tela para baixo, você vai clicar em “Baixe agora” na opção Developer
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/41a0bfb7-4f13-4a8b-9f4f-63b94cd9db78/Untitled.png)
+
+
+
+
 
 E como conseguimos? Precisamos instalar!!!!!!
 - [ ] Instalação do Visual Studio:
