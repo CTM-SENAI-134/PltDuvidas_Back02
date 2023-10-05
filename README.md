@@ -2,12 +2,10 @@
 <p>Este repositório é referente ao segundo dia do plantão individual sobre BackEnd. Serão abordadas as UCs 13(Banco de daodos), 14(Desenvolvimento de API), 15(Teste de BackEnd)</p>
 
 <h1>BANCO DE DADOS</h1> 
- ---
-> [!IMPORTANT]
-> O que precisamos ter para conseguir fazer a atividade?
-> 1) SQL Server
-> 2)  SSMS
- ---
+
+Para fazer essa preparação precisamos ter instalado em nossa máquina:
+- SQL Server - Sistema de gerenciamento de banco de dados
+- SSMS(**SQL Server Management Studio**) Ferramenta usada para administrar e interagir com o SQL Server
 
  <h2>Instalação do SQL Server</h2>
 a) Procure no navegador por: *SQL Server Download*
@@ -17,7 +15,21 @@ b) Clique no seguinte link:
 [Downloads do SQL Server | Microsoft](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
 
 c) Rolando um pouco a tela para baixo, você vai clicar em “Baixe agora” na opção Developer
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/41a0bfb7-4f13-4a8b-9f4f-63b94cd9db78/Untitled.png)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/fd845ad8-fc64-40f6-9b48-a35cae11fcbb)
+b) Abra o arquivo e permita que ele altere seu dispositivo.
+
+c) Abrirá essa interface, e selecione o **Personalizado**, para conseguirmos selecionar o que desejamos dentro do SQL:
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/96be1835-4072-4fc1-a590-494177d605b8)
+
+d) Clique em Instalar.
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/378ea71b-fd99-4077-b081-61861648a851)
+
+e) Aguarde a instalação
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/d05ee115-4590-4ca2-b3b2-c2fc0d469045)
+f) No menu lateral, selecione Instalação
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/a85170ba-5338-42ae-8e9c-5d67f210c240)
+g) Dentro de Instalação, selecione o link de Nova instalação autônoma do SQL Server ou adicionar recursos a uma instalação existente.
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/798fbb46-e0f5-4e92-baed-9258b4f1d87c)
 
 
 
