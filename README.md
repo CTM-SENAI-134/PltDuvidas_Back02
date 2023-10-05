@@ -15,6 +15,7 @@ b) Clique no seguinte link:
 [Downloads do SQL Server | Microsoft](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
 
 c) Rolando um pouco a tela para baixo, você vai clicar em “Baixe agora” na opção Developer
+<br>
 ![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/fd845ad8-fc64-40f6-9b48-a35cae11fcbb)
 
 b) Abra o arquivo e permita que ele altere seu dispositivo.
