@@ -8,9 +8,10 @@ Para fazer essa preparação precisamos ter instalado em nossa máquina:
 - SSMS(**SQL Server Management Studio**) Ferramenta usada para administrar e interagir com o SQL Server
 
  <h2>Instalação do SQL Server</h2>
-a) Procure no navegador por: *SQL Server Download*
+a) Procure no navegador por: **SQL Server Download**
 
-b) Clique no seguinte link:
+b) Clique no seguinte link: 
+<br>
 [Downloads do SQL Server | Microsoft](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
 
 c) Rolando um pouco a tela para baixo, você vai clicar em “Baixe agora” na opção Developer
