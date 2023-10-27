@@ -209,8 +209,9 @@ Instalando o Visual Studio:
 - Iniciando projeto no Visual Studio
 Com o Visual Studio aberto, clique em **Criar um projeto**, na direita.
 <br>
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/0727f4d5-7c06-4de1-88e0-2d56757bf7e0/Image.png)
-
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/fd845ad8-fc64-40f6-9b48-a35cae11fcbb)
+![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/0727f4d5-7c06-4de1-88e0-2d56757bf7e0/Untitled.png)
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/f69b73d3-6693-4735-b9ac-da1e3703c5fa/Untitled.png)
 Em Criar um novo projeto, terá modelos em que você pode criar o projeto. Na aba de pesquisa chamada “Pesquisar modelos(Alt+S)” procure por API web do ASP.NET core - C# selecione-o e clique no botão no canto inferior na direta, escrito próximo.
 ![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/8c228424-541a-41ef-955e-6234bb279d02/Image.png)
 ![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/14ea3718-5822-4ac0-82d1-d0fbcd38aaee/Image.png)
