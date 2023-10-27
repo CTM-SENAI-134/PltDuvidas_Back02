@@ -211,20 +211,20 @@ Com o Visual Studio aberto, clique em **Criar um projeto**, na direita.
 ![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/8e9de0fd-5286-4d73-aada-a1f5bd1a540e)
 
 Em Criar um novo projeto, terá modelos em que você pode criar o projeto. Na aba de pesquisa chamada “Pesquisar modelos(Alt+S)” procure por API web do ASP.NET core - C# selecione-o e clique no botão no canto inferior na direta, escrito próximo.
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/8c228424-541a-41ef-955e-6234bb279d02/Image.png)
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/14ea3718-5822-4ac0-82d1-d0fbcd38aaee/Image.png)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/1318c43d-7863-4185-8c6f-48e50b83c78f)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/3b8766da-9a68-4498-80da-e76f6f663136)
 
 Na aba de Configurar seu novo projeto, escreva o nome do projeto e caso queira, pode colocar o local em que o arquivo estará. Assim, clique em Próximo.
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/342b1891-d82e-4944-942a-a15447a8d512/Image.png)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/234cdaeb-a8cd-4235-8890-42c5c67d308c)
 
 Em Informações adicionais, não altere nada e clique em “Criar”. Observe se a estrutura está com a versão do .NET em 6.0.
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/e2fac0f4-4c0b-4641-a4e9-cb45e9f3339c/Image.png)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/53ac2159-f022-4a0e-ae1b-b08d5d581c82)
 
 Aguarde criar o projeto
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/56081be1-1b5d-414e-b63b-78afce152e30/Image.png)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/c9b38054-c492-4728-8b48-500913182d10)
 
 E logo abrirá o projeto criado pronto para ser alterado.
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/60e2a88f-3e54-489c-8d57-60cbbebceb96/Image.png)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/c2b0d133-ef52-435b-ab4e-33b3c50cb7a6)
 
 Com o ambiente todo preparado, agora sim, vamos começar a mexer no projeto.
 
@@ -235,69 +235,53 @@ Primeiro, precisamos criar três pastas:
 Dentro dessa pasta haverá modelos que representam os objetos de dados que a sua aplicação manipula. Eles geralmente refletem as entidades do mundo real com as quais sua aplicação está lidando. Por exemplo, se sua aplicação lida com usuários, você pode ter um modelo de usuário que inclua atributos como nome, email e senha.
 
 1. Clique com o botão direito no nome do projeto Chapter.
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/dc84af7e-9d36-4009-bf4f-8190f0c2069c/Image.png)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/fb104c9f-8f30-49f6-9a70-04bb2d933209)
 
-1. Procure por Adicionar e em seguida, clique em Nova Pasta
+2. Procure por Adicionar e em seguida, clique em Nova Pasta
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/9680b870-6c67-47e1-945d-1dcc739875d5)
 
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/69cc854f-6aea-47ca-92d0-3d527df71bd1/Image.png)
-
-1. Escreva no nome da pasta a palavra Models
-1. 
-
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/814aea8e-1cee-49a5-89a6-cabd3894655a/Image.png)
+3. Escreva no nome da pasta a palavra Models
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/34598693-7db7-4969-9f15-fa6514fcfdfd)
 
 - [ ]  Criar a pasta Repositories
-
 Dentro da pasta haverá repositórios responsáveis por lidar com a lógica de acesso a dados. Eles fornecem uma abstração sobre como os dados são armazenados e recuperados. Por exemplo, se você está lidando com dados de usuário, o repositório de usuário pode ser responsável por recuperar, atualizar, criar e excluir usuários no banco de dados.
 
 1. Clique com o botão direito no nome do projeto Chapter.
-
-    ![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/dc84af7e-9d36-4009-bf4f-8190f0c2069c/Image.png)
+   ![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/20ec97ef-13a2-4e0b-a160-ef4481f9a1df)
 
 2. Procure por Adicionar e em seguida, clique em Nova Pasta
-
-    ![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/69cc854f-6aea-47ca-92d0-3d527df71bd1/Image.png)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/8a74dfbe-a49e-4c65-ba9e-23869306151f)
 
 3. Escreva no nome da pasta a palavra Repositories
-
-    ![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/3bbc7646-f945-440c-8ffe-9221e89649a8/Image.png)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/fb9d0a8e-3be8-42df-9aae-c54c594a5a40)
 
 - [ ]  Criar a pasta Contexts
-
 Na pasta Contexts será o contexto é uma noção abstrata que geralmente se refere ao estado ou ambiente no qual uma operação específica está ocorrendo. Em uma API, o contexto pode se referir ao estado atual da solicitação, como as informações do usuário que fez a solicitação, as permissões de acesso, configurações específicas da aplicação e assim por diante. O contexto ajuda a determinar como as solicitações devem ser tratadas com base nas condições atuais.
 
 1. Clique com o botão direito no nome do projeto Chapter.
-
-    ![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/dc84af7e-9d36-4009-bf4f-8190f0c2069c/Image.png)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/0d935e84-28e1-4556-8b8d-65c8b36b8d2e)
 
 2. Procure por Adicionar e em seguida, clique em Nova Pasta
-
-    ![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/69cc854f-6aea-47ca-92d0-3d527df71bd1/Image.png)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/ba4680ff-cc6a-471a-b267-79e141d71c06)
 
 3. Escreva no nome da pasta a palavra Contexts
-
-    ![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/717b88bf-80bb-42bd-be4c-8a4ebe1b1481/Image.png)
-
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/3066337a-58fb-462e-b5d7-c9161fd0dd18)
 
 Agora, dentro da pasta Models, terão todas as classes do nosso sistema. Será nela que terão as classes com os atributos e métodos.
 
 Para criar a classe, você precisa clicar em Models e depois no botão direito. Procure por Adicionar e em seguida, Classe.
-
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/577fa445-55f2-48a5-b893-d93f4f5757b2/Image.png)
-
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/dcc021f1-6137-46d6-ad16-3a6580f7284c/Image.png)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/ce5b8995-d74d-4d02-9eec-8128789a70fa)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/0b924d33-2d82-4701-bbfa-269ac578a08d)
 
 Abrirá um campo para criar a classe. A única coisa que vai precisar mudar será o nome da classe. Coloque Livro.cs e em seguida clique no botão **Adicionar**.
-
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/907c1547-e7ea-49c6-b312-b1bee183998e/Image.png)
-
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/f62766a3-b9ec-4061-a96c-596b8155b52c/Image.png)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/2ab1483f-3e7a-46af-9cd5-fd986d139ca5)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/dbaa0001-9238-4e82-85dc-0bcb02f22075)
 
 Dentro da classe iremos criar os atributos públicos com seus tipos de dados. Então para ID será int por ser numérico, o título string por ser texto, e o bool para Disponível que é um tipo de dado que retorna true ou false.
 
 Os métodos de acesso **`get`** e **`set`** servem para controlar os valores do atributo.
 
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/ba74aa97-e097-424e-b51b-0dc2a4abec24/Image.png)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/37ba7425-1b54-4088-a276-a2e5a7a4409f)
 
 Agora no Context vamos aplicar as configurações para conectarmos nossa API ao banco.
 
@@ -305,51 +289,45 @@ Para isso precisamos instalar um pacote do sql server. E isso é um dos pontos p
 
 Para acessar o gerenciador de pacotes do NuGet, clique no botão direito em cima do nome do projeto e procure por “Gerenciar Pacotes do NuGet.
 
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/5a4b9c56-5641-42e8-9fbe-9b3c270d366f/Image.png)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/3e4fd9e2-e350-4e18-b5c3-b08ff1a6b9c6)
+
 
 Será aberto uma janela de pacores NuGet, clique em Procurar e pesquise por “Sql Server”
 
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/96124d13-04c4-47d3-ac1d-02fe3c16acc8/Image.png)
-
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/2693bb49-f58a-425f-bddd-6309dde2ec2c/Image.png)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/e7662f1f-e088-4ae2-8c0a-58dfd7b3eab2)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/3b8990e7-8741-4375-a3af-2ecc410653b1)
 
 Clique em:
-
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/3ad715b4-fc3b-41f6-be4d-4ff2512b005e/Image.png)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/6a9fe118-a82f-4267-b21c-c6e8263fd97f)
 
 Verifique se a versão é 6.0.21 e depois clique em Instalar:
-
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/93ec7ab7-85e2-4ffb-a785-64bc238caee7/Image.png)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/193b1f90-3210-4065-9b0f-2128858d9c70)
 
 Aguarde a instalação.
-
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/9eb4dc1b-1f39-456c-9163-75f5d387df49/Image.png)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/405fba48-7bc0-428c-9be9-153d14e125a3)
 
 Clique em aplicar:
-
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/b9eb4955-4ab3-4449-a24b-6954608c39ec/Image.png)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/56dc090f-4eec-4f53-95bb-c6b291c23a27)
 
 E em seguida, clique em Eu aceito:
-
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/86d258dc-c08e-41fb-bcb4-9a75425a2fbf/Image.png)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/c50018b8-4c01-42dc-9645-043dd3407b30)
 
 Assim que aparecer essa imagem, seu pacote foi instalado:
-
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/9a6d6ac7-82f9-462d-b4c7-ee36d6dc6c75/Image.png)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/4bbf6ab8-df7d-4b38-a194-5841162aa486)
 
 Agora na pasta Context vamos adicionar a classe ChapterContext.cs (sem plural).
 
 Para criar a classe, você precisa clicar em Context e depois no botão direito. Procure por **Adicionar** e em seguida clique em **Classe**.
 
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/ae7e2c6e-c93b-4b08-a9e5-04d5a0d1ef7a/Image.png)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/9215c92c-9ee0-4d79-a535-616518d54700)
 
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/9a4924d6-945e-4a8e-8816-57d81daf1d81/Image.png)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/281ee678-2fbc-41d2-a9eb-65a40f7cd05c)
 
 Escreva o nome da classe como ChapterContext.cs
 
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/049df38b-ad37-4571-abdf-f40672db93f8/Image.png)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/86545d02-ad99-46ec-b81f-046533d94718)
 
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/0208b905-b066-4285-ba52-8c67de37063c/Image.png)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/c7ab2273-4260-4652-bb6b-4693c9cbd6a6)
 
 Dentro da classe ChapterContext será necessário herdar o DbContext:
 ```
@@ -416,11 +394,11 @@ Para colocar as informações necessárias dentro do ***optionsBuilder.UseSqlSer
 
 Entre no SSMS e em cima do nome do servidos, clique no botão direito e em seguida, em **propriedades**.
 
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/415a19d4-6e3a-449b-a12d-ec62b87d453c/Image.png)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/f6551ee2-f643-48d0-98d9-568e135274ec)
 
 Copie a informação do nome desse banco.
 
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/ac16706e-9b6a-4e2a-8919-052753aaaa67/Image.png)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/c0389b5a-c4d7-4463-985a-ef377a77cae5)
 
 E aplique dentro de Data Source:
 
@@ -437,13 +415,13 @@ Agora no repositories, vamos criar uma classe chamada Livro Repository.cs
 
 Clique na pasta Repositories e em seguida botão direito, procure por **Adicionar** e em seguida **Classe**.
 
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/af2895c3-2b9d-41af-8511-be2fdf5baf49/Image.png)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/83100f61-e93b-46cb-b2a8-676b4c2730af)
 
 Escreva o nome da classe, LivroRepository.cs
 
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/da707bd5-4711-4093-ab2c-d113abf1c870/Image.png)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/a4bed30a-156a-4898-b470-3926bb610029)
 
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/d363d4e5-505c-4079-ae37-abbcc9044f9a/Image.png)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/9d5d925d-63a7-4963-a7ec-1cf78c773d23)
 
 Dentro da classe você vai criar primeiro um método construtor privado e de leitura da Classe ChapterContext.
 
@@ -505,25 +483,25 @@ Agora no Controller, vamos criar um controlador chamado LivroController.cs
 
 Clique na pasta Controllers e em seguida, no botão direito. Procure por **Adicionar** e em seguida **Controlador**. 
 
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/296ce43f-446f-4f04-b9e8-fb62661b880c/Image.png)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/a1cca9d2-adf2-4fc4-9834-390f2a8d6576)
 
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/f8111ed4-faf8-4706-9e5a-6b2dcd173dfa/Image.png)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/a49d6278-e967-433a-92db-dc3f934db9b7)
 
 Assim que abrir uma aba para Adicionar Novo Item com Scaffolding, na aba da esquerda em Comum, clique em API. Depois selecione a opção Controlador MVC - Vazio e depois isso clique em Adicionar.
 
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/f050218f-768a-4e36-a223-51b9487e5017/Image.png)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/1ece9ad9-f748-4b8c-a042-e6a070fbfdad)
 
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/944aa228-378b-488f-a979-e18e4d60f3ac/Image.png)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/6744d928-3451-4dc1-9bdd-4722bfe79528)
 
 Em seguida aplique o nome do controller como LivroController.cs e depois clique em Adicionar.
 
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/21f1fa80-85c3-4ee3-817a-7a67b649c153/Image.png)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/e698ede1-d43c-4635-8ab0-276c0a001e4a)
 
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/ea51837a-0a57-4904-b005-3a2d87521e23/Image.png)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/fe104a7c-ac70-4f56-a118-29e4283cceaa)
 
 Acima de “  [Route("api/[controller]")]” será colocado o “[Produces("application/json")] ” que serve para informar que utilizaremos o arquivo json para comunicação:
 
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/da440c11-7c12-4c3f-b7bc-3ea1faeaafe7/Image.png)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/7a41930e-3539-4022-afcc-33ead8b15fe9)
 
 Em seguida, será criado um método construtor privado e de leitura da nossa classe LivroRepository. E além disso, um método construtor da própria classe que receberá como parametro o livroRepository.
 
@@ -558,38 +536,34 @@ Em seguida, no arquivo program.cs você precisa adicionar essas duas linhas de c
 builder.Services.AddScoped<ChapterContext, ChapterContext>();
 builder.Services.AddTransient<LivroRepository, LivroRepository>();
 ```
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/b45e13e6-9f8e-41fa-9ab6-f5c4ac36d148/Image.png)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/dea1a900-fde3-4e1f-a19e-580833401690)
 
 Agora, a API está pronta para rodar. Clique em Chapter.
 
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/69dc4f53-3cd7-4003-bcef-52b35505a0b2/Image.png)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/27fd8904-e4c8-4a6c-862c-dd99235adafe)
 
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/acfcf140-5b84-4f07-9451-f9692b756d16/Image.png)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/7c15078e-731c-4583-927f-6c76955444c3)
 
 Aguarde a execução.
 
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/b3bf47af-3ce2-4e65-ba6a-c02813480cf1/Image.png)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/10e3935d-3037-4055-9560-33dfa9004e98)
 
 Será aberto em seu  navegador padrão um cara chamado Swagger, que será uma interface gráfica para nós de back que facilitará a interação do usuário com a API. 
 
 Abra a Aba em azul
-
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/e7344507-7193-414c-a946-638b2a72786c/Image.png)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/5d36fc56-60c8-4692-9570-1c8a9d0a34b8)
 
 Clique em Try it out
 
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/db3491e5-9acb-49a2-97f5-e746ec46e239/Image.png)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/5eb5aa7a-b569-4e2e-a41b-242d2bd65098)
 
 Em seguida clique no botão grande escrito Execute
 
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/3aeca239-671c-4a03-889d-659aff91927a/Image.png)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/46101503-cc22-486f-9a8f-a218a55d09c2)
 
 E você verá o Code, um código de retorno. O 200 siginfica que tudo deu certooo e além disso, na aba de Response body terá a listagem dos livros.
 
-![Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/0727f4d5-7c06-4de1-88e0-2d56757bf7e0/Image.png)
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/98fffb18-15b0-4f63-8d96-6843ad0d0a75)
 
-Vamos precisar rodar a API clicando no playzinho verde lá no menu do Visual Studio. Ele vai abrir o Swagger... Ele é parecido com o postman, vai fazer requisições utilizando o protocolo http e você consegue testar a api através dele, além disso, ele também serve como documentação
--clicar em try it out
--clicar em execute
 
 <h1>TESTE DE BACK</h1>
