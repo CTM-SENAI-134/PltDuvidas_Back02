@@ -208,7 +208,6 @@ Finalizando, aqui o importante é você compreender que no banco de dados podemo
 Instalando o Visual Studio:
 - Iniciando projeto no Visual Studio
 Com o Visual Studio aberto, clique em **Criar um projeto**, na direita.
-<br>
 ![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/8e9de0fd-5286-4d73-aada-a1f5bd1a540e)
 
 Em Criar um novo projeto, terá modelos em que você pode criar o projeto. Na aba de pesquisa chamada “Pesquisar modelos(Alt+S)” procure por API web do ASP.NET core - C# selecione-o e clique no botão no canto inferior na direta, escrito próximo.
