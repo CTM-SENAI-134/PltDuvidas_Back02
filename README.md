@@ -147,8 +147,8 @@ Então, para criar nosso banco de dados devemos escrever dentro da consulta o co
 CREATE DATABASE Chapter;
 ```
 E em seguida, clique em Executar:
-![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/e10b714a-3634-458a-9bed-fa7c61564ca5)
 
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/e10b714a-3634-458a-9bed-fa7c61564ca5)
 
 Assim que clicar em executar, verifique que na aba de mensagens temos um retorno de “Comandos concluídos com êxito.” Isso significa que nosso banco foi criado.
 ![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/33db05fd-6397-4294-89d8-864e10fe676d)
@@ -235,12 +235,13 @@ Primeiro, precisamos criar três pastas:
 Dentro dessa pasta haverá modelos que representam os objetos de dados que a sua aplicação manipula. Eles geralmente refletem as entidades do mundo real com as quais sua aplicação está lidando. Por exemplo, se sua aplicação lida com usuários, você pode ter um modelo de usuário que inclua atributos como nome, email e senha.
 
 1. Clique com o botão direito no nome do projeto Chapter.
+   
 ![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/fb104c9f-8f30-49f6-9a70-04bb2d933209)
 
-2. Procure por Adicionar e em seguida, clique em Nova Pasta
+3. Procure por Adicionar e em seguida, clique em Nova Pasta
 ![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/9680b870-6c67-47e1-945d-1dcc739875d5)
 
-3. Escreva no nome da pasta a palavra Models
+4. Escreva no nome da pasta a palavra Models
 ![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/34598693-7db7-4969-9f15-fa6514fcfdfd)
 
 - [ ]  Criar a pasta Repositories
