@@ -239,9 +239,11 @@ Dentro dessa pasta haverá modelos que representam os objetos de dados que a sua
 ![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/fb104c9f-8f30-49f6-9a70-04bb2d933209)
 
 3. Procure por Adicionar e em seguida, clique em Nova Pasta
+   
 ![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/9680b870-6c67-47e1-945d-1dcc739875d5)
 
-4. Escreva no nome da pasta a palavra Models
+5. Escreva no nome da pasta a palavra Models
+   
 ![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/34598693-7db7-4969-9f15-fa6514fcfdfd)
 
 - [ ]  Criar a pasta Repositories
@@ -260,12 +262,15 @@ Dentro da pasta haverá repositórios responsáveis por lidar com a lógica de a
 Na pasta Contexts será o contexto é uma noção abstrata que geralmente se refere ao estado ou ambiente no qual uma operação específica está ocorrendo. Em uma API, o contexto pode se referir ao estado atual da solicitação, como as informações do usuário que fez a solicitação, as permissões de acesso, configurações específicas da aplicação e assim por diante. O contexto ajuda a determinar como as solicitações devem ser tratadas com base nas condições atuais.
 
 1. Clique com o botão direito no nome do projeto Chapter.
+   
 ![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/0d935e84-28e1-4556-8b8d-65c8b36b8d2e)
 
-2. Procure por Adicionar e em seguida, clique em Nova Pasta
+3. Procure por Adicionar e em seguida, clique em Nova Pasta
+   
 ![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/ba4680ff-cc6a-471a-b267-79e141d71c06)
 
-3. Escreva no nome da pasta a palavra Contexts
+5. Escreva no nome da pasta a palavra Contexts
+   
 ![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/3066337a-58fb-462e-b5d7-c9161fd0dd18)
 
 Agora, dentro da pasta Models, terão todas as classes do nosso sistema. Será nela que terão as classes com os atributos e métodos.
@@ -302,6 +307,7 @@ Clique em:
 ![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/6a9fe118-a82f-4267-b21c-c6e8263fd97f)
 
 Verifique se a versão é 6.0.21 e depois clique em Instalar:
+
 ![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/193b1f90-3210-4065-9b0f-2128858d9c70)
 
 Aguarde a instalação.
