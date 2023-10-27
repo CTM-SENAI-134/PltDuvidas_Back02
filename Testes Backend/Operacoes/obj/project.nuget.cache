@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nxAr7siVX42m/WhyRu+j09yIDjilek9onhvvy+ikxu7SDL/vH6vA7XuhXsQZ5ZxtY7JwUBiGFf7VoDhSE2q4Og==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\rec_testes\\Operacoes\\Operacoes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

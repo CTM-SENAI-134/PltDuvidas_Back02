@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\rec_testes\Operacoes\bin\Debug\net6.0\Operacoes.deps.json
+C:\Users\admin\Desktop\rec_testes\Operacoes\bin\Debug\net6.0\Operacoes.dll
+C:\Users\admin\Desktop\rec_testes\Operacoes\bin\Debug\net6.0\Operacoes.pdb
+C:\Users\admin\Desktop\rec_testes\Operacoes\obj\Debug\net6.0\Operacoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\rec_testes\Operacoes\obj\Debug\net6.0\Operacoes.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\rec_testes\Operacoes\obj\Debug\net6.0\Operacoes.AssemblyInfo.cs
+C:\Users\admin\Desktop\rec_testes\Operacoes\obj\Debug\net6.0\Operacoes.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\rec_testes\Operacoes\obj\Debug\net6.0\Operacoes.dll
+C:\Users\admin\Desktop\rec_testes\Operacoes\obj\Debug\net6.0\refint\Operacoes.dll
+C:\Users\admin\Desktop\rec_testes\Operacoes\obj\Debug\net6.0\Operacoes.pdb
+C:\Users\admin\Desktop\rec_testes\Operacoes\obj\Debug\net6.0\ref\Operacoes.dll
