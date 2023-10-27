@@ -209,7 +209,7 @@ Instalando o Visual Studio:
 - Iniciando projeto no Visual Studio
 Com o Visual Studio aberto, clique em **Criar um projeto**, na direita.
 <br>
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/f69b73d3-6693-4735-b9ac-da1e3703c5fa/Untitled.png)
+[![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/f69b73d3-6693-4735-b9ac-da1e3703c5fa/Untitled.png)](https://www.notion.so/Desenvolvimento-de-API-cf946f733a934b468c96c438da56dc2c?pvs=4#be5979c6a820463aa0cd83601d74d057)
 
 Em Criar um novo projeto, terá modelos em que você pode criar o projeto. Na aba de pesquisa chamada “Pesquisar modelos(Alt+S)” procure por API web do ASP.NET core - C# selecione-o e clique no botão no canto inferior na direta, escrito próximo.
 ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d437abc-0f1a-42ab-81bd-882a5132a501/8c228424-541a-41ef-955e-6234bb279d02/Untitled.png)
