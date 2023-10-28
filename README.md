@@ -574,3 +574,95 @@ E você verá o Code, um código de retorno. O 200 siginfica que tudo deu certoo
 
 
 <h1>TESTE DE BACK</h1>
+
+Começamos criando uma pasta e abrindo ela.
+Digitamos na parte de endereço "cmd"
+![1](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/7d4413f2-6945-4c5e-be00-3edc8da9647a)
+
+No prompt de comando, digitamos "code ." (com o ponto separado) e pressionamos enter
+![2](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/b2146eea-25af-4709-9e94-f9361b752d34)
+
+Abrimos o terminal
+![3](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/b9512a73-647d-40ec-bdb3-fa02f082293d)
+
+E nele digitamos `dotnet new classlib -f net6.0 -o Operacoes` e pressionamos enter
+
+Um projeto de classes será criado. Agora, dentro da pasta Operacoes, renomeamos o arquivo Class1.cs para Operacoes.cs
+![4](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/d75f511c-ddf5-4817-bda8-5b38081f37c4)
+
+Clicamos no arquivo e trocamos o Class1 escrito dentro dele para Operacoes
+![5](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/c8edbc7c-8bd5-41c3-81cb-229794b6d5cf)
+
+Depois, vamos criar uma função somar
+
+![6](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/575c2171-da6a-48f2-a57f-83e06b5aaf67)
+
+Agora vamos criar um projeto de testes. Para isso, usamos o comando `dotnet new xunit -o Operacoes.xunit`
+
+Depois disso, precisamos apontar para o projeto de testes onde está o projeto de classes. Para isso, usamos o comando
+`dotnet add ./Operacoes.xunit/Operacoes.xunit.csproj reference ./Operacoes/Operacoes.csproj`
+
+Depois, na pasta Operacoes.xunit, abrimos o arquivo UnitTest1.cs
+Criamos a seguinte estrutura
+![image](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/f7ad2244-7806-4d89-aad0-6a9c31801890)
+
+Onde num1 e num2 são os números a serem somados, res o resultado esperado.
+
+Para rodarmos o teste, precisamos entrar na pasta pelo terminal, já que atualmente ele está na pasta que vem antes. Para isso, usamos o comando `cd Operacoes.xunit`
+
+Depois disso, usamos o comando `dotnet test` para fazermos o teste. O resultado deve ser parecido com esse
+![8](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/00247a81-4a69-4baa-ad0a-baa04c1e8d14)
+
+Agora faremos um teste com variáveis de valor diferente. Segue a estrutura a ser escrita embaixo da primeira função
+![9](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/d57641c2-1335-4ac3-b492-8725bf1ec235)
+
+Depois disso, rodamos o teste de novo com o comando `dotnet test`
+![10](https://github.com/CTM-SENAI-134/PltDuvidas_Back02/assets/144062335/2fbd7d68-44c7-404e-89c6-cbf6a1f316af)
+
+Nesse caso, o teste teve uma falha porque um dos conjuntos que passamos para a função tem 1, 2 e 4, porém 1 + 2 não dá 4
+
+Segue o código final do teste
+```
+using Operacoes;
+
+namespace Operacoes.xunit;
+
+public class UnitTest1
+{
+    [Fact]
+    public void SomarDoisNumeros()
+    {
+        double num1 = 1;
+        double num2 = 1;
+        double res = 2;
+
+        var resultado = Operacoes.Somar(num1, num2);
+
+        Assert.Equal(resultado, res);
+    }
+
+    [Theory]
+    [InlineData(1, 1, 2)]
+    [InlineData(1, 2, 4)]
+    [InlineData(2, 2, 4)]
+    public void SomarDoisNumerosLista(double num1, double num2, double res) 
+    {
+        var resultado = Operacoes.Somar(num1, num2);
+
+        Assert.Equal(res, resultado);
+    }
+}
+```
+
+E o da classe Operacoes
+```
+namespace Operacoes;
+public class Operacoes
+{
+    public static double Somar(double num1, double num2) {
+        return num1 + num2;
+    }
+}
+```
+
+
