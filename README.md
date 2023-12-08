@@ -1,5 +1,5 @@
 <h1>Olá, Dev!</h1>
-<p>Este repositório é referente ao segundo dia do plantão individual sobre BackEnd. Serão abordadas as UCs 13(Banco de daodos), 14(Desenvolvimento de API), 15(Teste de BackEnd)</p>
+<p>Este repositório é referente ao segundo dia do plantão individual sobre BackEnd. Serão abordadas as UCs 13(Banco de daodos), 9(Codificação para Back-End), 14(Desenvolvimento de API), 15(Teste de BackEnd)</p>
 
 <h1>BANCO DE DADOS</h1> 
 
